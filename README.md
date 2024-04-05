@@ -1,6 +1,6 @@
 # Image-processing-for-Real-Time-fire-detection-in-Simulink-and-implementation-on-a-Raspberry-Pi-board
 ## Overview
-This project introduces a sophisticated image processing algorithm designed for real-time fire detection, specifically targeting wildfire occurrences in forest areas. Developed using MATLAB Simulink, the system not only highlights the potential of image processing in critical environmental applications but also demonstrates a scalable solution from static image analysis to dynamic, real-time detection via webcams. Ultimately, the algorithm's deployment on a Raspberry Pi board equipped with a camera module showcases a practical, field-deployable system aimed at minimizing wildfire impact by enabling early detection and response efforts.
+This project introduces a sophisticated image processing algorithm designed for real-time fire detection, specifically targeting wildfire occurrences in forest areas [[1,2]](#1). Developed using MATLAB Simulink, the system not only highlights the potential of image processing in critical environmental applications but also demonstrates a scalable solution from static image analysis to dynamic, real-time detection via webcams. Ultimately, the algorithm's deployment on a Raspberry Pi board equipped with a camera module showcases a practical, field-deployable system aimed at minimizing wildfire impact by enabling early detection and response efforts.
 
 ## Importance
 Wildfires pose a significant threat to forests worldwide, leading to substantial ecological, economic, and social consequences. Early detection is crucial in mitigating these impacts, offering a crucial window for firefighting efforts to commence before the fire escalates beyond control. This project addresses this critical need by providing an efficient, real-time detection system capable of operating in diverse environmental conditions, thereby contributing to the preservation of forest resources and wildlife habitats.
@@ -30,5 +30,6 @@ Below are result images demonstrating the algorithm's capability to accurately d
 ![Screenshot 2024-04-05 180638](https://github.com/Amir-M-Vahedi/Image-processing-for-Real-Time-fire-detection-in-Simulink-and-implementation-on-a-Raspberry-Pi-board/assets/115154998/98a5dc68-6f46-45ce-b359-cbb4c885e111)
 
 ## References
-1. C. E. Premal and S. S. Vinsley, "Image processing based forest fire detection using YCbCr colour model," 2014 International Conference on Circuits, Power and Computing Technologies [ICCPCT-2014], Nagercoil, India, 2014, pp. 1229-1237, doi: 10.1109/ICCPCT.2014.7054883.
-2. He, Bingsong & Zhao, Xueping & Zhou, Zhiguo & Fan, Zheyi. (2013). Implementation of a Fire Detection Algorithm on TMS320DM642 DSP using MATLAB/Simulink. 10.2991/iccnce.2013.155.
+<a id="1">[1]</a> C. E. Premal and S. S. Vinsley, "Image processing based forest fire detection using YCbCr colour model," 2014 International Conference on Circuits, Power and Computing Technologies [ICCPCT-2014], Nagercoil, India, 2014, pp. 1229-1237, doi: 10.1109/ICCPCT.2014.7054883.
+
+<a id="2">[2]</a> He, Bingsong & Zhao, Xueping & Zhou, Zhiguo & Fan, Zheyi. (2013). Implementation of a Fire Detection Algorithm on TMS320DM642 DSP using MATLAB/Simulink. 10.2991/iccnce.2013.155.
