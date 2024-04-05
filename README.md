@@ -24,9 +24,10 @@ Below are result images demonstrating the algorithm's capability to accurately d
 
 <!-- Replace `url_to_image` with the actual URL to your image -->
 <p align="center">
-  <img width="1013" alt="Screenshot 2022-10-07 220752 - Copy" src="https://github.com/Amir-M-Vahedi/Image-processing-for-Real-Time-fire-detection-in-Simulink-and-implementation-on-a-Raspberry-Pi-board/assets/115154998/be2baeda-0275-41db-9b83-9ff55ca65193">
+  <img width="1012" alt="Screenshot 2022-10-07 220752 - Copy" src="https://github.com/Amir-M-Vahedi/Image-processing-for-Real-Time-fire-detection-in-Simulink-and-implementation-on-a-Raspberry-Pi-board/assets/115154998/6baacacb-69f7-419b-8137-e09db1d5b809">
 </p>
 
+![Screenshot 2024-04-05 180638](https://github.com/Amir-M-Vahedi/Image-processing-for-Real-Time-fire-detection-in-Simulink-and-implementation-on-a-Raspberry-Pi-board/assets/115154998/98a5dc68-6f46-45ce-b359-cbb4c885e111)
 
 ## References
 1. C. E. Premal and S. S. Vinsley, "Image processing based forest fire detection using YCbCr colour model," 2014 International Conference on Circuits, Power and Computing Technologies [ICCPCT-2014], Nagercoil, India, 2014, pp. 1229-1237, doi: 10.1109/ICCPCT.2014.7054883.
