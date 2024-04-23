@@ -1,4 +1,4 @@
-# Image-processing-for-Real-Time-fire-detection-in-Simulink-and-implementation-on-a-Raspberry-Pi-board
+# Image processing for Real-Time fire detection in Simulink and implementation on a Raspberry Pi board
 ## Overview
 This project introduces a sophisticated image processing algorithm designed for real-time fire detection, specifically targeting wildfire occurrences in forest areas [[1,2]](#1). Developed using MATLAB Simulink, the system not only highlights the potential of image processing in critical environmental applications but also demonstrates a scalable solution from static image analysis to dynamic, real-time detection via webcams. Ultimately, the algorithm's deployment on a Raspberry Pi board equipped with a camera module showcases a practical, field-deployable system aimed at minimizing wildfire impact by enabling early detection and response efforts.
 
